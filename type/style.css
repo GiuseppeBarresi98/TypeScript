@@ -1,0 +1,23 @@
+.generate-number {
+  width: 400px;
+  border: 1px solid red;
+  text-align: center;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin-inline: auto;
+  font-size: 60px;
+  height: 200px;
+}
+
+input {
+  width: 50%;
+  margin: auto;
+  display: block;
+  margin-bottom: 20px;
+  height: 30px;
+  font-size: 20px;
+  border-radius: 20px;
+  border: 1px solid red;
+  padding: 10px;
+}
